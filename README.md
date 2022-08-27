@@ -21,5 +21,4 @@ Para o jogador customizar seu nome deve abrir o arquivo de texto "entrada", remo
 Ao passar por nós de escolha, só as letras maiúsculas, conforme as opções apresentadas, serão aceitas. Caso contrário, aparecerá “Opção inválida!” e serão apresentadas as opções novamente, assim como qualquer outra letra não apresentada.
 
 ## Árvore
-![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
-![Fluxogrma das nós do jogo](/Programa do Campo.png)
+![Fluxogrma das nós do jogo](/Fluxograma.png)
