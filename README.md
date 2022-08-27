@@ -1,0 +1,2 @@
+# CampoB-sicoRPG
+O jogo se baseia na ida do jogadagor à intrução do campo básico, atividade militar. No início da jornada, o jogador percebe que trouxe sua mochila vazia e deve tomar as melhores decisões de como agir e de como gastar o dinheiro para concluir as atividades em série. Ao final das atividades, o jogador receberá uma pontuação final de acordo com a quantidade e raridade dos itens adquiridos no trajeto pelo campo.
