@@ -397,7 +397,7 @@ void cadastrarNos()
     raiz,
     opcoes0,
     1,
-    "Neste jogo, Você � um aluno do IME que, pela primeira vez, está indo para o tem�vel Campo. \nAssim, Você deve se preparar da melhor forma, fazendo as decis�es de forma a concluir todas as atividades.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
+    "Neste jogo, Você � um aluno do IME que, pela primeira vez, está indo para o tem�vel Campo. \nAssim, Você deve se preparar da melhor forma, fazendo as decisóes de forma a concluir todas as atividades.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
     );
 
     opcao opcoes1[1] = {{'*', 2}};
@@ -424,7 +424,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes3,
     1,
-    "J� no inventório, haver� os itens essenciais e raros que o jogador possui.\nEsses itens serão, ora comprados, ora encontrados em alguns caminhos.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
+    "Já no inventório, haverá os itens essenciais e raros que o jogador possui.\nEsses itens serão, ora comprados, ora encontrados em alguns caminhos.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
     );
 
     opcao opcoes4[1] = {{'*', 5}};
@@ -433,7 +433,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes4,
     1,
-    "Finalmente, os seus itens, as moedas e os seus possíveis FOs durante a atividade influenciarão na sua pontuação final.\nEntão, tome cuidado nas escolhas, pois nem todas as vantagens s�o o que parecem ser!\n\nAperte qualquer tecla + <ENTER> para iniciar o jogo\n"
+    "Finalmente, os seus itens, as moedas e os seus possíveis FOs durante a atividade influenciarão na sua pontuação final.\nEntão, tome cuidado nas escolhas, pois nem todas as vantagens são o que parecem ser!\n\nAperte qualquer tecla + <ENTER> para iniciar o jogo\n"
     );
 
     opcao opcoes5[1] = {{'*', 6}};
@@ -451,7 +451,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes6,
     3,
-    "Qual item comprar? \n\nA- Saco Imperme�vel: 110 Moedas\nB- Lanterna: 100 Moedas\nC- Cabo Solteiro: 80 Moedas\nT- Ver Moedas\n\nopção escolhida: "
+    "Qual item comprar? \n\nA- Saco Impermeável: 110 Moedas\nB- Lanterna: 100 Moedas\nC- Cabo Solteiro: 80 Moedas\nT- Ver Moedas\n\nopção escolhida: "
     );
 
     opcao opcoes7[2] = {{'A', 8}, {'B', 9}};
@@ -460,7 +460,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes7,
     2,
-    "O Tenente separa o primeiro ano em 2 pelot�es para fazer as atividades. \nQual atividade fazer? \n\nA- Progress�o\nB- Marcha\n\nopção escolhida: "
+    "O Tenente separa o primeiro ano em 2 pelotões para fazer as atividades. \nQual atividade fazer? \n\nA- Progressão\nB- Marcha\n\nopção escolhida: "
     );
 
     opcao opcoes8[1] = {{'*', 11}};
@@ -469,7 +469,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes8,
     1,
-    "Agora, enquanto está claro, o Tenente instrui seu pelot�o acerca da progress�o diurna.\nVocê adentra na pista e...\n\nAperte qualquer tecla + <ENTER> para continuar\n"
+    "Agora, enquanto está claro, o Tenente instrui seu pelotão acerca da progressão diurna.\nVocê adentra na pista e...\n\nAperte qualquer tecla + <ENTER> para continuar\n"
     );
 
     opcao opcoes11[3] = {{'A', 12}, {'B', 13}, {'C', 14}};
@@ -478,7 +478,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes11,
     3,
-    "Na primeira parte Você deve encarar uma pista de rastejo e lembra que na instru��o haviam 3 op��es. \nComo prosseguir? \n\nA- Engatinhar\nB- Rastejo alto\nC- Rastejo baixo\n\nopção escolhida:  "
+    "Na primeira parte Você deve encarar uma pista de rastejo e lembra que na instrução haviam 3 opções. \nComo prosseguir? \n\nA- Engatinhar\nB- Rastejo alto\nC- Rastejo baixo\n\nopção escolhida:  "
     );
 
     opcao opcoes12[1] = {{'*', 11}};
@@ -487,7 +487,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes12,
     1,
-    "O Tenente te acusou de acochambra��o e, por isso, deu um FO- e pediu para repetir a pista. \n\nAperte qualquer tecla + <ENTER> para voltar ao inócio\n"
+    "O Tenente te acusou de acochambração e, por isso, deu um FO- e pediu para repetir a pista. \n\nAperte qualquer tecla + <ENTER> para voltar ao inócio\n"
     );
 
     opcao opcoes13[1] = {{'*', 11}};
@@ -505,7 +505,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes14,
     1,
-    "O Tenente gostou do seu desempenho, mas a progress�o diurna ainda nóo acabou. \n\nAperte qualquer tecla + <ENTER> para continuar\n"
+    "O Tenente gostou do seu desempenho, mas a progressão diurna ainda nóo acabou. \n\nAperte qualquer tecla + <ENTER> para continuar\n"
     );
 
     opcao opcoes15[2] = {{'A', 16}, {'B', 19}};
@@ -514,7 +514,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes15,
     2,
-    "Você segue correndo, exausto, e depara-se com uma bifurca��o:\n\nó esquerda, Você ouve um som long�nquo de �gua corrente;\nó direita, a mata aparenta ser mais fechada. \nQual caminho tomar? \n\nA- Esquerda\nB- Direita\n\nopção escolhida:  "
+    "Você segue correndo, exausto, e depara-se com uma bifurcação:\n\nó esquerda, Você ouve um som longínquo de água corrente;\nó direita, a mata aparenta ser mais fechada. \nQual caminho tomar? \n\nA- Esquerda\nB- Direita\n\nopção escolhida:  "
     );
 
     opcao opcoes16[2] = {{'A', 17}, {'B', 18}};
@@ -523,7 +523,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes16,
     2,
-    "Ap�s andar muito, Você chega em um rio desconhecido, e vai seguir por suas margens.\nComo um aluno safo, v� nisso a oportunidade de beber a �gua do rio, economizando a do cantil.\n\nA- Beber a �gua\nB- nóo beber e prosseguir\n\nopção escolhida:  "
+    "Após andar muito, Você chega em um rio desconhecido, e vai seguir por suas margens.\nComo um aluno safo, vê nisso a oportunidade de beber a água do rio, economizando a do cantil.\n\nA- Beber a água\nB- nóo beber e prosseguir\n\nopção escolhida:  "
     );
 
     opcao opcoes17[1] = {{'*', 20}};
@@ -532,7 +532,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes17,
     1,
-    "J� cansado, mas se aproximando do final, encontra uma pista de cordas.\n\nAperte qualquer tecla + <ENTER> para tentar a pista\n"
+    "Já cansado, mas se aproximando do final, encontra uma pista de cordas.\n\nAperte qualquer tecla + <ENTER> para tentar a pista\n"
     );
 
     opcao opcoes20[1] = {{'*', 0}};
@@ -541,7 +541,7 @@ void cadastrarNos()
     terminal,
     opcoes20,
     1,
-    "Tentando a pista, Você come�ou a sentir-se mal...\n\nO Tenente adverte que foi por causa da �gua estranha que Você consumiu.\nInfelizmente, Você precisar� ir na visita m�dica, e nóo concluiu o campo. \nFim de Jogo\n"
+    "Tentando a pista, Você começpu a sentir-se mal...\n\nO Tenente adverte que foi por causa da água estranha que Você consumiu.\nInfelizmente, Você precisará ir na visita médica, e nóo concluiu o campo. \nFim de Jogo\n"
     );
 
     opcao opcoes18[1] = {{'*', 21}};
@@ -550,7 +550,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes18,
     1,
-    "J� cansado, mas se aproximando do final, encontra uma pista de cordas.\n\nAperte qualquer tecla + <ENTER> para tentar a pista\n"
+    "Já cansado, mas se aproximando do final, encontra uma pista de cordas.\n\nAperte qualquer tecla + <ENTER> para tentar a pista\n"
     );
 
     opcao opcoes21[1] = {{'*', 24}};
@@ -559,7 +559,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes21,
     1,
-    "Ap�s muito esforço, a pista e a progress�o diurna foram conclu�das.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
+    "Após muito esforço, a pista e a progressão diurna foram concluídas.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
     );
 
     opcao opcoes19[2] = {{'A', 15}, {'B', 23}};
@@ -568,7 +568,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes19,
     2,
-    "A mata come�a a fechar e a temperatura come�a a cair... Você deve escolher sabiamente: \n\nA- Voltar\nB- Prosseguir\n\nopção escolhida: "
+    "A mata começa a fechar e a temperatura começa a cair... Você deve escolher sabiamente: \n\nA- Voltar\nB- Prosseguir\n\nopção escolhida: "
     );
 
     opcao opcoes22[1] = {{'*', 18}};
@@ -595,7 +595,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes24,
     1,
-    "O tempo escureceu e o Tenente está prestes a inciar a progress�o noturna. Você precisa de uma lanterna.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
+    "O tempo escureceu e o Tenente está prestes a inciar a progressão noturna. Você precisa de uma lanterna.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
     );
 
     opcao opcoes25[1] = {{'*', 26}};
@@ -613,7 +613,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes26,
     1,
-    "A mensagem �:\n\n\"Haver� um ataque cibernótico ao IME e todos os ifs serão trocados por elses, no dia D + 3, come�ando na SE9!\"\n\nAperte qualquer tecla + <ENTER> para continuar. A mensagem ser� apagada.\n"
+    "A mensagem �:\n\n\"haverá um ataque cibernótico ao IME e todos os ifs serão trocados por elses, no dia D + 3, começando na SE9!\"\n\nAperte qualquer tecla + <ENTER> para continuar. A mensagem ser� apagada.\n"
     );
 
     opcao opcoes27[2] = {{'A', 28}, {'B', 29}};
@@ -622,7 +622,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes27,
     2,
-    "Continuando a andar em silêncio, encontra uma �rvore ca�da.\nVocê pode passar por baixo ou por cima do obst�culo: \n\nA- Cima\nB- Baixo\n\nopção escolhida: "
+    "Continuando a andar em silêncio, encontra uma árvore ca�da.\nVocê pode passar por baixo ou por cima do obstáculo: \n\nA- Cima\nB- Baixo\n\nopção escolhida: "
     );
 
     opcao opcoes28[1] = {{'*', 31}};
@@ -631,7 +631,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes28,
     1,
-    "Seguindo por cima, Você faz um barulho ao pisar na casca da �rvore.\nO inimigo, assim, te plotou e Você ouviu um disparo.\nRapidamente, Você saiu correndo para o final da pista.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
+    "Seguindo por cima, Você faz um barulho ao pisar na casca da árvore.\nO inimigo, assim, te plotou e Você ouviu um disparo.\nRapidamente, Você saiu correndo para o final da pista.\n\nAperte qualquer tecla + <ENTER> para continuar\n"
     );
 
     opcao opcoes29[1] = {{'*', 30}};
@@ -649,7 +649,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes30,
     1,
-    "Continuando abaixado, Você percebe uma aranha em seu bra�o e se assusta.\nLogo, sai correndo para o final da pista.\n\nAperte qualquer tecla + <ENTER> para continuar.\n"
+    "Continuando abaixado, Você percebe uma aranha em seu braço e se assusta.\nLogo, sai correndo para o final da pista.\n\nAperte qualquer tecla + <ENTER> para continuar.\n"
     );
 
     opcao opcoes31[1] = {{'*', 34}};
@@ -658,7 +658,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes31,
     1,
-    "Finalmente, Você chegou ao final da pista, e encontra o Capit�o.\nO Capit�o pergunta: \"Aluno, qual e mensagem?\".\n\nAperte qualquer tecla + <ENTER> para continuar.\n"
+    "Finalmente, Você chegou ao final da pista, e encontra o Capitão.\nO Capitão pergunta: \"Aluno, qual e mensagem?\".\n\nAperte qualquer tecla + <ENTER> para continuar.\n"
     );
 
     opcao opcoes32[1] = {{'*', 33}};
@@ -667,7 +667,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes32,
     1,
-    "Finalmente, Você chegou ao final da pista, e encontra o Capit�o.\nO Capit�o pergunta: \"Aluno, qual e mensagem?\".\n\nAperte qualquer tecla + <ENTER> para continuar.\n"
+    "Finalmente, Você chegou ao final da pista, e encontra o Capitão.\nO Capitão pergunta: \"Aluno, qual e mensagem?\".\n\nAperte qualquer tecla + <ENTER> para continuar.\n"
     );
 
     opcao opcoes33[1] = {{'*', 6}};
@@ -685,7 +685,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes34,
     5,
-    "Você nóo se lembra exatamente, mas tem uma no��o. Qual era a mensagem?\n\nA- Haver� um ataque cibernótico ao IME e todos os ifs serão trocados por elses, no dia D + 3, come�ando na SE6!\nB- Haver� um ataque cibernótico ao IME e todos os ifs serão trocados por elses, no dia D + 3, come�ando na SE9!\nC- Haver� um ataque cibernótico ao ITA e todos os ifs serão trocados por elses, no dia D + 3, come�ando na SE9!\nD- Haver� um ataque cibernótico ao IME e todos os breaks serão trocados por gotos, no dia D + 3, come�ando na SE6!\nE- Haver� um ataque cibernótico ao IME e todos os breaks serão trocados por gotos, no dia D + 2, come�ando na SE9! \n\nDigite a opção correta para concluir a atividade.\n"
+    "Você nóo se lembra exatamente, mas tem uma noção. Qual era a mensagem?\n\nA- haverá um ataque cibernótico ao IME e todos os ifs serão trocados por elses, no dia D + 3, começando na SE6!\nB- haverá um ataque cibernótico ao IME e todos os ifs serão trocados por elses, no dia D + 3, começando na SE9!\nC- haverá um ataque cibernótico ao ITA e todos os ifs serão trocados por elses, no dia D + 3, começando na SE9!\nD- haverá um ataque cibernótico ao IME e todos os breaks serão trocados por gotos, no dia D + 3, começando na SE6!\nE- haverá um ataque cibernótico ao IME e todos os breaks serão trocados por gotos, no dia D + 2, começando na SE9! \n\nDigite a opção correta para concluir a atividade.\n"
     );
 
     opcao opcoes105[1] = {{'*', 6}};
@@ -703,7 +703,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes35,
     1,
-    "Você acertou a mensagem e concluiu a progress�o com sucesso.\n\nAperte qualquer tecla + <ENTER> para ir ao próximo dia\n"
+    "Você acertou a mensagem e concluiu a progressão com sucesso.\n\nAperte qualquer tecla + <ENTER> para ir ao próximo dia\n"
     );
 
 
@@ -731,7 +731,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes9,
     1,
-    "Agora, nóo tem mais volta: Você escolheu fazer a marcha, uma intensa caminhada de 8km.\nCalor, cansa�o e fadiga s�o alguma das sensa��es que te acompanham...\n\nAperte qualquer tecla + <ENTER> para continuar\n"
+    "Agora, nóo tem mais volta: Você escolheu fazer a marcha, uma intensa caminhada de 8km.\nCalor, cansaço e fadiga são alguma das sensações que te acompanham...\n\nAperte qualquer tecla + <ENTER> para continuar\n"
     );
 
     opcao opcoes36[2] = {{'A', 102}, {'B', 37}};
@@ -740,7 +740,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes36,
     2,
-    "J� ao iniciar do dia, o comandante de seu pelot�o o promove a xerife.\nA funó�o de xerife exige muita responsabilidade, principalmente na contagem de seu pessoal.\n\nEntão, Você diz:\n\nA- \"Eu desisto, senhor!\"\nB- \"Brasil, Tenente!\"\n\nDigite a opção selecionada: "
+    "Já ao iniciar do dia, o comandante de seu pelotão o promove a xerife.\nA função de xerife exige muita responsabilidade, principalmente na contagem de seu pessoal.\n\nEntão, Você diz:\n\nA- \"Eu desisto, senhor!\"\nB- \"Brasil, Tenente!\"\n\nDigite a opção selecionada: "
     );
 
     opcao opcoes102[1] = {{'*', 100}};
@@ -758,7 +758,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes37,
     3,
-    "Como xerife e com o tempo apertado, Você s� consegue fazer uma das tr�s a��es abaixo:\n\nA- Pedir um bizu ao xerife antigo\nB- Contar o efetivo\nC- Discursar para seu pelot�o\n\nopção escolhida: "
+    "Como xerife e com o tempo apertado, Você só consegue fazer uma das três ações abaixo:\n\nA- Pedir um bizu ao xerife antigo\nB- Contar o efetivo\nC- Discursar para seu pelotão\n\nopção escolhida: "
     );
 
     opcao opcoes38[1] = {{'*', 41}};
@@ -767,7 +767,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes38,
     1,
-    "O xerife antigo diz: \n\n\"O Capit�o ordenou que sempre que algu�m baixasse, o canga acompanhasse para ajud�-lo...\nComo agora tem um nómero par de pessoas, sempre haver� efetivo par\".\n\nAperte qualquer tecla + <ENTER> para continuar\n"
+    "O xerife antigo diz: \n\n\"O Capitão ordenou que sempre que alguém baixasse, o canga acompanhasse para ajudá-lo...\nComo agora tem um nómero par de pessoas, sempre haverá efetivo par\".\n\nAperte qualquer tecla + <ENTER> para continuar\n"
     );
 
     opcao opcoes39[1] = {{'*', 41}};
@@ -785,7 +785,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes40,
     1,
-    "Enquanto dava seu discurso, o pelot�o ficou em p� com sua mochila pesada.\nVocê ficou mal visto pelo seu pelot�o.\n\nAperte qualquer tecla + <ENTER> para continuar\n "
+    "Enquanto dava seu discurso, o pelotão ficou em pó com sua mochila pesada.\nVocê ficou mal visto pelo seu pelotão.\n\nAperte qualquer tecla + <ENTER> para continuar\n "
     );
 
     opcao opcoes41[3] = {{'A', 42}, {'B', 43}, {'C', 44}};
@@ -803,7 +803,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes42,
     1,
-    "Seu pelot�o ficou muito cansado e teve que repetir o percurso.\n\nAperte qualquer tecla + <ENTER> para tentar novamente\n"
+    "Seu pelotão ficou muito cansado e teve que repetir o percurso.\n\nAperte qualquer tecla + <ENTER> para tentar novamente\n"
     );
 
     opcao opcoes44[1] = {{'*', 41}};
@@ -812,7 +812,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes44,
     1,
-    "O Tenente considerou como acochambra��o sua escolha e te deu um FO-.\n\nAperte qualquer tecla + <ENTER> para tentar novamente\n"
+    "O Tenente considerou como acochambração sua escolha e te deu um FO-.\n\nAperte qualquer tecla + <ENTER> para tentar novamente\n"
     );
 
     opcao opcoes43[2] = {{'A', 45}, {'B', 46}};
@@ -821,7 +821,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes43,
     2,
-    "O Tenente aceitou e comandou: dire��o ao infinito, sem cad�ncia, marche!\n\nAp�s 2km, chegou a hora do primeiro alto hor�rio, e h� duas �reas de descanóo:\n\nA- Local ensolarado\nB- Clareira, no meio da mata\n\nEscolha a �rea de descanso: "
+    "O Tenente aceitou e comandou: dire��o ao infinito, sem cad�ncia, marche!\n\nApós 2km, chegou a hora do primeiro alto hor�rio, e h� duas �reas de descanóo:\n\nA- Local ensolarado\nB- Clareira, no meio da mata\n\nEscolha a �rea de descanso: "
     );
 
     opcao opcoes45[1] = {{'*', 47}};
@@ -830,7 +830,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes45,
     1,
-    "Nessa �rea, os alunos Amadi, Eccar, Laurinho e Gilson baixaram por insola��o. \nA exposi��o ao sol estava intensa, e eles tiveram que ir emergencialmente na visita m�dica\n\nAperte qualquer tecla + <ENTER> para prosseguir\n"
+    "Nessa �rea, os alunos Amadi, Eccar, Laurinho e Gilson baixaram por insola��o. \nA exposi��o ao sol estava intensa, e eles tiveram que ir emergencialmente na visita médica\n\nAperte qualquer tecla + <ENTER> para prosseguir\n"
     );
 
     opcao opcoes46[1] = {{'*', 47}};
@@ -839,7 +839,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes46,
     1,
-    "Nessa �rea, o aluno Amadi, entusiasta da biologia e experiente com animais, foi picado por uma aranha ao tentar segur�-la.\nRapidamente, a emerg�ncia foi acionada e ele baixou.\nAlêm disso, mais 3 baixaram por cansa�o.\n\nAperte qualquer tecla + <ENTER> para �prosseguir.\n"
+    "Nessa �rea, o aluno Amadi, entusiasta da biologia e experiente com animais, foi picado por uma aranha ao tentar segur�-la.\nRapidamente, a emerg�ncia foi acionada e ele baixou.\nAlêm disso, mais 3 baixaram por cansaço.\n\nAperte qualquer tecla + <ENTER> para �prosseguir.\n"
     );
 
     opcao opcoes47[1] = {{'*', 48}};
@@ -848,7 +848,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes47,
     1,
-    "Ap�s 4km de marcha, o pelot�o chega � travessia do rio. \nPara nóo molhar seu material, Você precisa impermeabilizar todos seus itens.\n\nAperte qualquer tecla + <ENTER> para prosseguir\n"
+    "Após 4km de marcha, o pelotão chega � travessia do rio. \nPara nóo molhar seu material, Você precisa impermeabilizar todos seus itens.\n\nAperte qualquer tecla + <ENTER> para prosseguir\n"
     );
 
     opcao opcoes103[1] = {{'*', 49}};
@@ -857,7 +857,7 @@ void cadastrarNos()
     terminal,
     opcoes103,
     1,
-    "Você nóo tem um saco imperme�vel. \nDurante a travessia, todo seu material foi encharcado e perdido.\nFim de jogo.\n"
+    "Você nóo tem um saco Impermeável. \nDurante a travessia, todo seu material foi encharcado e perdido.\nFim de jogo.\n"
     );
 
     opcao opcoes48[1] = {{'*', 49}};
@@ -866,7 +866,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes48,
     1,
-    "A travessia foi �rdua, mas ap�s muito esforço, conseguiu chegar ao outro lado.\nChegando lê, percebe que os alunos Botenza e Conardo baixaram no meio do caminho.\n\nAperte qualquer tecla + <ENTER> para prosseguir\n"
+    "A travessia foi �rdua, mas Após muito esforço, conseguiu chegar ao outro lado.\nChegando lê, percebe que os alunos Botenza e Conardo baixaram no meio do caminho.\n\nAperte qualquer tecla + <ENTER> para prosseguir\n"
     );
 
     opcao opcoes49[2] = {{'A', 50}, {'B', 53}};
@@ -875,7 +875,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes49,
     2,
-    "Conclu�da a travessia, o pelot�o segue na marcha.\nNo meio do caminho, foi encontrado um barranco, e Você, como xerife, tem duas op��es:\n\nA- Passar pelo barranco\nB- Contornar o barranco\n\nEscolha a opção: "
+    "Conclu�da a travessia, o pelotão segue na marcha.\nNo meio do caminho, foi encontrado um barranco, e Você, como xerife, tem duas opções:\n\nA- Passar pelo barranco\nB- Contornar o barranco\n\nEscolha a opção: "
     );
 
     opcao opcoes50[2] = {{'A', 51}, {'B', 52}};
@@ -884,7 +884,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes50,
     2,
-    "Foi uma escolha desastrosa. No barranco, 13 alunos ca�ram e torceram o p�. Você, ainda que cuidadoso, tamb�m trope�ou e caiu junto.\nNo meio da bagunóa, Você encontra uma barrinha de cereal de algu�m, que caiu no ch�o...\n\nA- Pegar a barrinha\nB- nóo pegar a barrinha\n\nopção escolhida: \n"
+    "Foi uma escolha desastrosa. No barranco, 13 alunos ca�ram e torceram o pó. Você, ainda que cuidadoso, tamb�m trope�ou e caiu junto.\nNo meio da bagunóa, Você encontra uma barrinha de cereal de alguém, que caiu no ch�o...\n\nA- Pegar a barrinha\nB- nóo pegar a barrinha\n\nopção escolhida: \n"
     );
 
     opcao opcoes51[2] = {{'A', 52}, {'B', 52}};
@@ -939,7 +939,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes56,
     5,
-    "Finalizada a marcha, Você deve apresentar o pelot�o para o Capit�o.\nQual o efetivo?\n\nA- 26\nB- 17\nC- 21\nD- 27\nE- 24 \n\nDigite a opção correta para concluir a atividade: \n"
+    "Finalizada a marcha, Você deve apresentar o pelotão para o Capitão.\nQual o efetivo?\n\nA- 26\nB- 17\nC- 21\nD- 27\nE- 24 \n\nDigite a opção correta para concluir a atividade: \n"
     );
 
     opcao opcoes57[5] = {{'A', 105}, {'B', 105}, {'C', 105}, {'D', 105}, {'E', 58}};
@@ -948,7 +948,7 @@ void cadastrarNos()
     naoTerminal,
     opcoes57,
     5,
-    "Finalizada a marcha, Você deve apresentar o pelot�o para o Capit�o.\nQual o efetivo?\n\nA- 22\nB- 17\nC- 16\nD- 19\nE- 18 \n\nDigite a opção correta para concluir a atividade..\n"
+    "Finalizada a marcha, Você deve apresentar o pelotão para o Capitão.\nQual o efetivo?\n\nA- 22\nB- 17\nC- 16\nD- 19\nE- 18 \n\nDigite a opção correta para concluir a atividade..\n"
     );
 
     opcao opcoes58[1] = {{'*', 6}};
@@ -1194,8 +1194,8 @@ void printInventarioEssencial(itensEssenciais *inventarioEssencial)
 {
     for(int i = 0; i < 4; i++) {
         if(inventarioEssencial[i] == sacoImpermeavel) {
-            printf("Saco Imperme�vel\n");
-            fprintf(arquivoSaida, "Saco Imperme�vel\n");
+            printf("Saco Impermeável\n");
+            fprintf(arquivoSaida, "Saco Impermeável\n");
         }
 
         if(inventarioEssencial[i] == lanterna) {
