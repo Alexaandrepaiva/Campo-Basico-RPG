@@ -1,5 +1,9 @@
 # CampoBasicoRPG
 
+## Sobre
+
+Esse foi o trabalho final da disciplina de Introdução à Computação no primeiro semestre do Ciclo Básico do Instituo Militar de Engenharia feito pelo grupo cujos integrantes eram Alexandre de Paiva Almeida, Luiz Guilherme Amadi Braga, Matheus Bordalo e Rômulo Venâncio da Silva.
+
 ## Visão Geral
 O jogo se baseia na ida de uma companhia de alunos ao campo. Entretanto, logo no início da jornada, o jogador percebe que trouxe sua mochila completamente vazia. Nesse contexto, o jogador ainda possui uma chance de comprar pouquíssimos itens com dinheiro que recebe por meio de um sistema inovador, baseado no tempo. Assim, suas diversas escolhas de itens, comuns ou raros, e de caminhos combinadas proporcionam diversos caminhos com seu pelotão pelas atividades do campo, com recursos quase inexistentes, uma tarefa que poucos irão conseguir chegar ao final.
 
